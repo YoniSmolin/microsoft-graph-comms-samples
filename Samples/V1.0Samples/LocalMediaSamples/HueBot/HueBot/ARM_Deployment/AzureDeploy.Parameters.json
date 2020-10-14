@@ -6,7 +6,7 @@
       "value": "westus2"
     },
     "clusterName": {
-      "value": "%BotNameLower%"
+      "value": "huebotsf"
     },
     "adminUserName": {
       "value": "huebot"
@@ -57,7 +57,7 @@
       "value": "Standard_LRS"
     },
     "nt0InstanceCount": {
-      "value": 5
+      "value": 1
     },
     "vmNodeType0Size": {
       "value": "Standard_D2_V2"
